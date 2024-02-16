@@ -1,6 +1,6 @@
 # Tauri + Qwik + Typescript
 
-This template should help get you started developing with Tauri, Qwik and Typescript in Vite.
+This template should help get you started developing with [Tauri](https://tauri.app/), [Qwik](https://qwik.dev/), [TailwindCSS](https://tailwindcss.com/) and [Typescript](https://www.typescriptlang.org/) using [Vite](https://vitejs.dev) and [Bun](https://bun.sh/).
 
 ## Recommended IDE Setup
 
